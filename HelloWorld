@@ -1,3 +1,7 @@
 system.out.println("HelloWorld");
 
 system.out.println("Bye");
+
+system.out.println("Enter the value of a:");
+Scanner scan =new Scanner(System.in);
+system.out.println(scan.a);
